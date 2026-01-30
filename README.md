@@ -23,12 +23,14 @@ Multi-source data integration
 Interpreting correlation vs causation
 
 # Repository Structure
+```
 scout-datascience-project/
 ├── KeystoneHomesDataAnalysis.ipynb
 ├── data/
 ├── figures/
 ├── final_report.pdf
 ├── README.md
+```
 
 # How to Run
 Ensure Python and Jupyter Notebook are installed. Install required dependencies if needed:
