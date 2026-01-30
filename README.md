@@ -24,11 +24,14 @@ Interpreting correlation vs causation
 
 # Repository Structure
 ```
-scout-datascience-project/
+keystone-homes-data-analysis/
 ├── KeystoneHomesDataAnalysis.ipynb
 ├── data/
-├── figures/
-├── final_report.pdf
+│   ├── boston-fy2025-property-assessment-data_12_30_2024.csv
+│   ├── boston-311-metadata.csv
+│   ├── Census_Leading-Institutions-by-Institutional-Type_OD24_Website.xlsx
+│   ├── zillow-all-homes-plus-multifamily-time-series-zipcode.csv
+│   └── zip-codes-database-FREE.csv
 ├── README.md
 ```
 
